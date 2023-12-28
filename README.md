@@ -14,4 +14,4 @@ Flutter State Management : Utilizes efficient Flutter state management for seaml
 This repository serves as the foundation for a minimalistic grocery app UI, providing insights into clean code practices and efficient state management.
 
 ### Feedback :
-We appreciate your feedback! Contact us at [email address] to contribute insights for refining Grocery Store.
+I value your feedback! Feel free to reach out to me at cpmuhammedsinan@gmail.com .
